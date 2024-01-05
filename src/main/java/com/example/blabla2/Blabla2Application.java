@@ -10,6 +10,8 @@ public class Blabla2Application
     public static void main(String[] args)
     {
         SpringApplication.run(Blabla2Application.class, args);
+
+        System.out.println("hej");
     }
 
     //bla
