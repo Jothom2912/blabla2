@@ -11,7 +11,7 @@ public class Blabla2Application
     {
         SpringApplication.run(Blabla2Application.class, args);
 
-        System.out.println("hej");
+        System.out.println("hej og");
     }
 
     //bla
